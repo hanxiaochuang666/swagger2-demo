@@ -1,9 +1,9 @@
-== Chapter of manual content 1
+== 自定义章
 
-This is some dummy text
+非学历统一平台
 
-=== Sub chapter
+=== 自定义子节
 
-Dummy text of sub chapter
+非学历统一平台信息
 
 
